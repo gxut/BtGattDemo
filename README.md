@@ -548,6 +548,3 @@ BLE GATT Server/Client传输示例
     }
   ```
 
-## 四、BLE GATT Server/Client传输示例
-
-* https://github.com/gxut/BtGattDemo.git
